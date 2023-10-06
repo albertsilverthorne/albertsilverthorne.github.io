@@ -1,4 +1,4 @@
 # About
 
-* [Policy](https://apps.apple.com/us/app/id1661970249)
+* [Policy](https://albertsilverthorne.github.io/policy.html)
 
